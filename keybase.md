@@ -19,13 +19,13 @@ json
 "username": "maar"
 },
 "merkle_root": {
-"ctime": 1568106238,
-"hash": "9b38413f8a045dd60659407c92da4b47fab7bd60803c6dae2d03556f26c83e085bb702c1935a9e0edab20c1975ee0db493f73cfb7c9d7151c28c9e2764d71f00",
-"hash_meta": "9ac656493ef1fab850846a0626fc39500d5ac2475e15cdd0d404117361268548",
-"seqno": 6357374
+"ctime": 1568120704,
+"hash": "53cce7e84fa4130fa2b5de40c45170c98d82201b5e45772ae5a6296fe5e4f45e4e0900e15f61572fae619b84a068c37e51d9bf827135e92c5917958c16c0f676",
+"hash_meta": "6fb89768ff4b507020f09e36ab32e289963569679260f4aa637d2eac771fe715",
+"seqno": 6409074
 },
 "service": {
-"entropy": "0ftrYS0XCOfqHgPQb+OxMI7P",
+"entropy": "1ACnHxHCMHGWbACqM+sN6Roq",
 "name": "github",
 "username": "nickeu"
 },
@@ -36,16 +36,16 @@ json
 "name": "keybase.io go client",
 "version": "4.4.0"
 },
-"ctime": 1568106244,
+"ctime": 1568120710,
 "expire_in": 504576000,
-"prev": "8b8d09d065423d5ec9f3bae1fddd6bb0b4f9d54645755d3e79f62937380ad126",
-"seqno": 9,
+"prev": "122ead29f1865f7a01f3ae6159a26eea0336fd04ebb87646499b4ce5ad209a53",
+"seqno": 13,
 "tag": "signature"
 }
 
 with the key [ASBSZgBhEmHsf16LLrAVMhnSOny5tQUkPoWfAxcwO5jBEAo](https://keybase.io/maar), yielding the signature:
 
-hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgUmYAYRJh7H9eiy6wFTIZ0jp8ubUFJD6FnwMXMDuYwRAKp3BheWxvYWTESpcCCcQgi40J0GVCPV7J87rh/d1rsLT51UZFdV0+efYpNzgK0SbEIF4aDmYwIV7253+mOtEwrB3dqSs9hzMdP1cdY4TXlKpGAgHCo3NpZ8RAeluLq+MyXyvR28+YqI4UY5HqIIgZBIWoFNKFiIQ8Lzf1FJHd4gqLcRD63Plg5sOfeHwSWIAzrsH6yYQ+H52dB6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIFXWrTDJdSvMWrZcNlbcGYDM91gWpfmLAvawxkD6Sbejo3RhZ80CAqd2ZXJzaW9uAQ==
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgUmYAYRJh7H9eiy6wFTIZ0jp8ubUFJD6FnwMXMDuYwRAKp3BheWxvYWTESpcCDcQgEi6tKfGGX3oB865hWaJu6gM2/QTruHZGSZtM5a0gmlPEILB+SSxlTRmlNT5AqWhxHIGi6YVGBB5OCZJnVXgbxBFTAgHCo3NpZ8RAzJ7fm0W2X/c+FYLEKlLxMsn2GjMADNgfvlIFOdsxb/etwjERUzO4stkW3Hb7nKlw9h1KbsuAjp7OCWUOt+lBDqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIM3t0LDWVqmtnZFj873BuTeo/V7/A46AiLFZPUoO6Hvwo3RhZ80CAqd2ZXJzaW9uAQ==
 
 And finally, I am proving ownership of the github account by posting this as a gist.
 
